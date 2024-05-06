@@ -1,3 +1,4 @@
+// 应用/服务配置信息： https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V2/module-configuration-file-0000001427744540-V2
 {
   "module": {
     "name": "entry",
